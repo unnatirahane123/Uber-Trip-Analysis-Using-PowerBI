@@ -45,7 +45,7 @@ To analyze Uber trip data using Power BI and provide actionable insights into bo
 - Most Preferred Vehicle by Pickup Location
 - Farthest Trip Details
 
-![Overview Dashboard](Dashboard Images/Overview Dashboard.png)
+![Overview Dashboard](Dashboard%20Images/Overview%20Dashboard.png)
 
 ---
 
@@ -69,7 +69,7 @@ Understand ride demand across different **times of day and days of the week** to
 - Understand weekday vs weekend demand
 - Plan promotions or incentives during low traffic hours
 
-![Time Analysis Dashboard](Dashboard Images/Time Analysis Dashboard.png)
+![Time Analysis Dashboard](Dashboard%20Images/Time%20Analysis%20Dashboard.png)
 
 ---
 
@@ -91,7 +91,7 @@ Provide granular visibility into every trip record and allow users to drill thro
 - **Drill-through** from charts to view detailed records
 - **Bookmark** toggle to switch between full dataset view and filtered detail
 
-![Details Dashboard](Dashboard Images/Details Dashboard.png)
+![Details Dashboard](Dashboard%20Images/Details%20Dashboard.png)
 
 ---
 
